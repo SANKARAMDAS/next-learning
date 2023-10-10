@@ -1,3 +1,3 @@
 export default function Page() {
-    return <div>Posts Page!</div>
+    return <div>Select a Post</div>
 }
